@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Cal IV.iml" filepath="$PROJECT_DIR$/.idea/modules/Cal IV.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Cal_IV.iml" filepath="$PROJECT_DIR$/.idea/modules/Cal_IV.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Cal_IV_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Cal_IV_main.iml" group="Cal_IV" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Cal_IV_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Cal_IV_test.iml" group="Cal_IV" />
+      <module fileurl="file://$PROJECT_DIR$/Calculo-IV.iml" filepath="$PROJECT_DIR$/Calculo-IV.iml" />
+    </modules>
+  </component>
+</project>
